@@ -1,0 +1,14 @@
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Dependencias
+node_modules/
+
+# Ambiente
+.env
+.env.*
